@@ -1,3 +1,3 @@
 # Leetcode_python
 
-Python 解 L
+Python 解 Leetcode
